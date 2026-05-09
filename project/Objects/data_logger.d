@@ -1,0 +1,56 @@
+.\objects\data_logger.o: ..\modules\data_logger.c
+.\objects\data_logger.o: ..\modules\data_logger.h
+.\objects\data_logger.o: ..\types\common_types.h
+.\objects\data_logger.o: ..\..\CMSIS\GD\GD32F4xx\Include\gd32f4xx.h
+.\objects\data_logger.o: ..\..\CMSIS\core_cm4.h
+.\objects\data_logger.o: E:\PPT\Keil MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\data_logger.o: ..\..\CMSIS\core_cmInstr.h
+.\objects\data_logger.o: ..\..\CMSIS\core_cmFunc.h
+.\objects\data_logger.o: ..\..\CMSIS\core_cm4_simd.h
+.\objects\data_logger.o: ..\..\CMSIS\GD\GD32F4xx\Include\system_gd32f4xx.h
+.\objects\data_logger.o: ..\..\User\gd32f4xx_libopt.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_rcu.h
+.\objects\data_logger.o: ..\..\CMSIS\GD\GD32F4xx\Include\gd32f4xx.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_adc.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_can.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_crc.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_ctc.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_dac.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_dbg.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_dci.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_dma.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_exti.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_fmc.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_fwdgt.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_gpio.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_syscfg.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_i2c.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_iref.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_pmu.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_rtc.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_sdio.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_spi.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_timer.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_trng.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_usart.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_wwdgt.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_misc.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_enet.h
+.\objects\data_logger.o: E:\PPT\Keil MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_exmc.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_ipa.h
+.\objects\data_logger.o: ..\..\Library\GD32F4xx_standard_peripheral\Include\gd32f4xx_tli.h
+.\objects\data_logger.o: E:\PPT\Keil MDK\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\data_logger.o: E:\PPT\Keil MDK\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\data_logger.o: E:\PPT\Keil MDK\ARM\ARMCC\Bin\..\include\string.h
+.\objects\data_logger.o: E:\PPT\Keil MDK\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\data_logger.o: E:\PPT\Keil MDK\ARM\ARMCC\Bin\..\include\time.h
+.\objects\data_logger.o: ..\drivers\sd_card_driver.h
+.\objects\data_logger.o: ..\..\Fatfs\ff.h
+.\objects\data_logger.o: ..\..\Fatfs\integer.h
+.\objects\data_logger.o: ..\..\Fatfs\ffconf.h
+.\objects\data_logger.o: ..\..\Fatfs\diskio.h
+.\objects\data_logger.o: ..\drivers\spi_flash_driver.h
+.\objects\data_logger.o: ..\drivers\rtc_driver.h
+.\objects\data_logger.o: ..\utils\data_encoder.h
+.\objects\data_logger.o: ..\modules\config_manager.h
